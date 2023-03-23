@@ -11,6 +11,7 @@
 - 🎭 Container Orchestration: Kubernetes
 - 🤖 CI/CD: Jenkins
 - 🛠️ Configuration Management: Ansible
+- 🏗️ Infrastrucutre as a Code: Terraform
 - ☁️ Infrastructure as a Service: AWS
 
 # 📝 Technical Blogger on HashNode [Link](https://yashpatil.hashnode.dev/)
