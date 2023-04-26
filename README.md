@@ -45,6 +45,8 @@
 
 ➤ 🌐 Created a Docker repository on Nexus and Configured User Role, Ports, and Firewall rules. Pushed the Docker Image to Nexus Repository. Created a Droplet on DigitalOcean Server and installed Docker. Ran Nexus as a Docker Container on DigitalOcean Server and accessed it from the browser.
 
+<hr>
+
 ### Scalable Node.js Web Service on AWS with Terraform, Nginx, and Python Healthcheck [Link](https://github.com/yash-s-patil/Devops-Assignment)
 
 ➤ 🔒 Designed and implemented a secure and scalable public web service on AWS using Terraform and Nginx reverse proxy, with external access limited to ports 80 and 443, and restricted access to internal paths starting with "/internal/..." for enhanced security. 
