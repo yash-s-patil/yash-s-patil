@@ -4,8 +4,20 @@
 
 # Skills
 ➤ Frontend: 🌐 HTML, 🎨 CSS, 🧑‍💻 JavaScript, ⚛️ React JS
+
 ➤ Backend: 🐍 Python, 🎓 Django, 🛡️ Django Rest Framework, 🌐 Rest APIs, 🐘 PostgreSQL
+
 ➤ DevOps: 🐧 Linux, 🔌 Networking, 🐳 Docker, ☸️ Kubernetes, 🚦 Jenkins, 🔧 Ansible, 🛡️ Terraform, ☁️ AWS
+
+# 👨‍💻 Backend Developer at TubeTalentHub (Freelance)
+
+➤ Developed Tubetalenthub, a 🐍 Django-based marketplace for hiring YouTubers to promote products. Implemented a 🔍 search functionality that allows users to search for YouTubers based on city, camera type, and promotion category.
+
+➤ Created an 🧑‍💼 admin panel where the admin can add YouTubers and fill in details such as name, price, description, video, subscriber count, and whether they are featured or not. These details are stored in a 🐘 PostgreSQL database and displayed on the front-end, utilizing Django's Model-View-Template (MVT) pattern for all apps.
+
+➤ Implemented a 🎨 customizable slider and 🧑‍🤝‍🧑 team section using the MVT pattern, allowing the admin to easily manage content on the front-end.
+
+➤ Integrated user authentication and social authentication with Facebook using Django allauth, as well as a ✉️ contact form that sends information to the admin panel upon submission.
 
 # 📝 Technical Blogger on HashNode [Link](https://yashpatil.hashnode.dev/)
 
