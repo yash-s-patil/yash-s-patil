@@ -1,18 +1,11 @@
 # Hi there, I'm Yash Patil 👋
 
-🧑‍💻 I am a DevOps engineer and a Technical Blogger on HashNode with a computer science background from Pune University. I am passionate about automation and enjoy working with containerization technologies such as Docker and Kubernetes.
+🧑‍💻 I am a Backend Developer, Technical Blogger and a Devops Guy with expertise in Python and Django. I have a computer science background from Pune University and I am passionate about automation and enjoy working with containerization technologies such as Docker and Kubernetes.
 
 # Skills
-- 🐍 Languages: Python, C++
-- 🖥️ Operating System: Linux
-- 🔗 Computer Networking
-- 🗃️ Version Control: Git
-- 🐳 Container Tool: Docker
-- 🎭 Container Orchestration: Kubernetes
-- 🤖 CI/CD: Jenkins
-- 🛠️ Configuration Management: Ansible
-- 🏗️ Infrastrucutre as a Code: Terraform
-- ☁️ Infrastructure as a Service: AWS
+➤ Frontend: 🌐 HTML, 🎨 CSS, 🧑‍💻 JavaScript, ⚛️ React JS
+➤ Backend: 🐍 Python, 🎓 Django, 🛡️ Django Rest Framework, 🌐 Rest APIs, 🐘 PostgreSQL
+➤ DevOps: 🐧 Linux, 🔌 Networking, 🐳 Docker, ☸️ Kubernetes, 🚦 Jenkins, 🔧 Ansible, 🛡️ Terraform, ☁️ AWS
 
 # 📝 Technical Blogger on HashNode [Link](https://yashpatil.hashnode.dev/)
 
