@@ -63,7 +63,7 @@
 ➤ 📈 Deployed auto scaling and load balancing to the service to handle spikes in traffic and improve overall performance and user experience.      
 
 # Connect with me 🤝
-➤ 📧 Email: yashpatil4421@email.com
+➤ 📧 Email: yashpatil4421@gmail.com
 
 ➤ 💼 LinkedIn: https://www.linkedin.com/in/yash-patil-09a6b3195/
 
